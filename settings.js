@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Senal Boy']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['💗Queen Hansi🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94769872326'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Senal Boy'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💗Queen Hansi🧚'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©💗Queen Hansi🧚.'
 
-global.ig = 'https://github.com/BlackPant'
+global.ig = 'https://github.com/senalb'
 
 global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
 
-global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
+global.sc = 'https://github.com/senalb/Queen-Ashiya'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://www.youtube.com/channel/UCk7GhQallcFLJP26_-g0F3w'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '💗Queen Hansi🧚'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '💗Queen Hansi🧚'
 
 global.sessionName = 'session'
 
